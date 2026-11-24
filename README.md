@@ -1,5 +1,9 @@
 # Pickup Lines for Machines
 
+[![make.fun · u-gentle-badger-68-pickup-lines-for-machines-131631a1](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+[![rank](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/gowther18/u-gentle-badger-68-pickup-lines-for-machines-131631a1/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+[![reward](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/gowther18/u-gentle-badger-68-pickup-lines-for-machines-131631a1/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+
 Entry for the make.fun bounty
 `u-gentle-badger-68-pickup-lines-for-machines-131631a1`
 ($5 pot: 1st $2, 2nd $2, 3rd $1; free entry; deadline 2026-11-24 12:50 WIB).

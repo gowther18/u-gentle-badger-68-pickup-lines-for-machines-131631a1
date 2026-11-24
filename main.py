@@ -24,5 +24,10 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 LINE = "If loving you is overfitting, I never want to generalize."
 
+# Gate guard: the sealed scorer only accepts /output/entry.txt as UTF-8
+# text of 1 to 200 characters, not only white space. Fail loudly here
+# instead of shipping a line the judge never sees.
+assert 1 <= len(LINE) <= 200 and LINE.strip(), "line violates the entry gate"
+
 Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
 Path(OUTPUT_DIR, "entry.txt").write_text(LINE, encoding="utf-8")
